@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Leander Ziem!
 
+This is the [Github](https://github.com/LeanderZiehm/) of Leander Ziehm
+
 ## 🎓 About Me
 I'm an AI student at the Technical University of Deggendorf, currently in my fifth semester and set to graduate in **2026**. I'm passionate about **generative AI** and **software development**, with plans to move to Berlin to dive into the vibrant startup scene.
 
