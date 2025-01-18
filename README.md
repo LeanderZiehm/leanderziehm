@@ -49,14 +49,13 @@ I'm an AI student at the Technical University of Deggendorf, currently in my fif
     </td>  
     <td style="background-color: #f0f0f0;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shakur&theme=tokyonight&layout=compact" alt="Shakur's WakaTime stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeanderZiehm&theme=tokyonight&layout=compact" alt="Shakur's WakaTime stats" />
       </a>
     </td>
   </tr>
 </table>
 </p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">🔮 Statistics and Metrics:</h2>
 <div align="center">
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leanderziehm&theme=2077" height="180em" />
@@ -66,3 +65,4 @@ I'm an AI student at the Technical University of Deggendorf, currently in my fif
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=leanderziehm&theme=react-dark"/>
+ -->
