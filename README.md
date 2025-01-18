@@ -22,11 +22,16 @@ I'm an AI student at the Technical University of Deggendorf, currently in my fif
 
 <h2 align="center">🔮 Framework and Tools:</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,c#" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cs" />
   <br>
   I am learning
+    <br>
    <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,postgres" />
 </p>
+
+<div align="center">
+  <a  href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight" /></a>
+</div>
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
@@ -41,20 +46,16 @@ I'm an AI student at the Technical University of Deggendorf, currently in my fif
       <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=leanderziehm&theme=tokyonight&hide_border=true" alt="Ridwan's streak" />
     </td>
   </tr>
-  <tr>
-    <td style="background-color: #ffffff;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight" />
-      </a>
-    </td>  
+</table>
+</p>
+<!-- 
+    
     <td style="background-color: #f0f0f0;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=leanderziehm&theme=tokyonight&layout=compact" alt="Shakur's WakaTime stats" />
       </a>
     </td>
-  </tr>
-</table>
-</p>
+
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">🔮 Statistics and Metrics:</h2>
 <div align="center">
@@ -65,4 +66,4 @@ I'm an AI student at the Technical University of Deggendorf, currently in my fif
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=leanderziehm&theme=react-dark"/>
- -->
+-->
