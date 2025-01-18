@@ -49,7 +49,7 @@ I'm an AI student at the Technical University of Deggendorf, currently in my fif
     </td>  
     <td style="background-color: #f0f0f0;">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=LeanderZiehm&theme=tokyonight&layout=compact" alt="Shakur's WakaTime stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=leanderziehm&theme=tokyonight&layout=compact" alt="Shakur's WakaTime stats" />
       </a>
     </td>
   </tr>
