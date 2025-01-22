@@ -26,21 +26,6 @@ I'm an AI student at the Technical University of Deggendorf, currently in my fif
   <a  href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight" /></a>
 </div>
 
-<h2 align="center">📊 GitHub Stats:</h2>
-<p align="center">
-<table>
-  <tr>
-    <td style="background-color: #f0f0f0;">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=leanderziehm&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Ridwan's GitHub stats" />
-      </a>
-    </td>
-    <td style="background-color: #ffffff;">
-      <img align="center" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=leanderziehm&theme=tokyonight&hide_border=true" alt="Ridwan's streak" />
-    </td>
-  </tr>
-</table>
-</p>
 <!-- 
     
     <td style="background-color: #f0f0f0;">
