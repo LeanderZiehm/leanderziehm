@@ -12,15 +12,16 @@ I'm an AI student at the Technical University of Deggendorf, currently in my fif
 </p>
 
 <h2 align="center">🔮 Framework and Tools:</h2>
+
+
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=unity,sklearn,selenium,ps,java,linkedin,linux,flask,firebase,blender,arduino,androidstudio,ae,discord,django,opencv,supabase,windows" />
-      <br>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cs" />
-  <br>
-  I am learning
-    <br>
-   <img src="https://skillicons.dev/icons?i=react,nextjs,mongodb,tailwind,nodejs,express,postgres,fastapi,docker,discordjs,d3,dotnet,latex,threejs,nginx" />
-    <img src="https://skillicons.dev/icons?i=wordpress" />
+  <br>I have a lot of experience with<br>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
+  <br>I use these in some projects<br>
+  <img src="https://skillicons.dev/icons?i=unity,sklearn,selenium,ps,java,linkedin,linux,flask,firebase,blender,arduino,androidstudio,ae,discord,django,opencv,supabase,windows" />
+  <br>I am learning right now<br>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,mongodb,tailwind,nodejs,express,postgres,fastapi,docker,discordjs,d3,dotnet,latex,threejs,nginx" />
+  <img src="https://skillicons.dev/icons?i=wordpress" />
 
   
 </p>
