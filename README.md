@@ -21,7 +21,9 @@ I'm an AI student at the Technical University of Deggendorf, currently in my fif
   <img src="https://skillicons.dev/icons?i=unity,blender,ae,ps,androidstudio,opencv,arduino,discord,firebase,supabase,java,selenium,flask,django,sklearn,windows,linux" />
   <br>I am learning right now<br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,figma,mongodb,tailwind,nodejs,express,jenkins,githubactions" />
-   <img src="https://skillicons.dev/icons?i=postgres,fastapi,docker,d3,dotnet,latex,threejs,nginx" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=postgres,fastapi,docker,d3,dotnet,latex,threejs,nginx" />
+  <br>
   <img src="https://skillicons.dev/icons?i=wordpress" />
 
   
