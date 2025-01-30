@@ -20,7 +20,7 @@ I'm an AI student at the Technical University of Deggendorf, currently in my fif
   <br>I use these in some projects<br>
   <img src="https://skillicons.dev/icons?i=unity,sklearn,selenium,ps,java,flask,firebase,blender,arduino,androidstudio,ae,discord,django,opencv,supabase,windows,linux" />
   <br>I am learning right now<br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,mongodb,tailwind,nodejs,express,postgres,fastapi,docker,discordjs,d3,dotnet,latex,threejs,nginx" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,figma,mongodb,tailwind,nodejs,express,postgres,fastapi,docker,d3,dotnet,latex,threejs,nginx" />
   <img src="https://skillicons.dev/icons?i=wordpress" />
 
   
