@@ -3,7 +3,7 @@
 ## 🎓 About Me
 I'm an AI student at the Technical University of Deggendorf, currently in my fifth semester and set to graduate in **2026**. I'm passionate about **generative AI** and **software development**, with plans to move to Berlin to dive into the vibrant startup scene.
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/leanderziehm333/)
+- [LinkedIn](https://www.linkedin.com/in/leanderziehm333/)   <img src="https://skillicons.dev/icons?i=linkedin" />
 - [Youtube](https://www.youtube.com/@LeandersLife)
 - leanderziehm@gmail.com
 
@@ -18,10 +18,12 @@ I'm an AI student at the Technical University of Deggendorf, currently in my fif
   <br>I have a lot of experience with<br>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python" />
   <br>I use these in some projects<br>
-  <img src="https://skillicons.dev/icons?i=unity,sklearn,selenium,ps,java,linkedin,linux,flask,firebase,blender,arduino,androidstudio,ae,discord,django,opencv,supabase,windows" />
+  <img src="https://skillicons.dev/icons?i=unity,sklearn,selenium,ps,java,,flask,firebase,blender,arduino,androidstudio,ae,discord,django,opencv,supabase,windows,linux" />
   <br>I am learning right now<br>
   <img src="https://skillicons.dev/icons?i=react,nextjs,mongodb,tailwind,nodejs,express,postgres,fastapi,docker,discordjs,d3,dotnet,latex,threejs,nginx" />
   <img src="https://skillicons.dev/icons?i=wordpress" />
+
+  
 
   
 </p>
