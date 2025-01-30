@@ -19,7 +19,7 @@ I'm an AI student at the Technical University of Deggendorf, currently in my fif
   <br>
   I am learning
     <br>
-   <img src="https://skillicons.dev/icons?i=react,mongodb,tailwind,nodejs,express,postgres,fastapi,docker,discordjs,d3,dotnet,latex,threejs,nginx" />
+   <img src="https://skillicons.dev/icons?i=react,nextjs,mongodb,tailwind,nodejs,express,postgres,fastapi,docker,discordjs,d3,dotnet,latex,threejs,nginx" />
     <img src="https://skillicons.dev/icons?i=wordpress" />
 
   
