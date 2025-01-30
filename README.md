@@ -13,13 +13,16 @@ I'm an AI student at the Technical University of Deggendorf, currently in my fif
 
 <h2 align="center">🔮 Framework and Tools:</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=unity,sklearn,selenium,ps,java,linkedin,linux,flask,firebase,blender,arduino,androidstudio,ae,discord,django,opencv,supabase,threejs,windows" />
+    <img src="https://skillicons.dev/icons?i=unity,sklearn,selenium,ps,java,linkedin,linux,flask,firebase,blender,arduino,androidstudio,ae,discord,django,opencv,supabase,windows" />
       <br>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,cs" />
   <br>
   I am learning
     <br>
-   <img src="https://skillicons.dev/icons?i=react,mongodb,tailwind,nodejs,express,postgres,fastapi,docker,discordjs,d3,dotnet,latex,,nginx" />
+   <img src="https://skillicons.dev/icons?i=react,mongodb,tailwind,nodejs,express,postgres,fastapi,docker,discordjs,d3,dotnet,latex,threejs,nginx" />
+    <img src="https://skillicons.dev/icons?i=wordpress" />
+
+  
 </p>
 
 <div align="center">
