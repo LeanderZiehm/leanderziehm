@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Leander Ziem!
 
 ## 🎓 About Me
-I'm an AI student at the Technical University of Deggendorf, currently in my 6th semester and set to graduate in **2026**. I'm passionate about **web development**
+I'm an AI student at the Technical University of Deggendorf, currently in my 6th semester and set to graduate in **2026**. I'm passionate about **backend development** for websites.
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/leanderziehm333/)
 - leanderziehm@gmail.com
