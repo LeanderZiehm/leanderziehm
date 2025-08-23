@@ -15,3 +15,9 @@ I'm an AI student at the Technical University of Deggendorf, currently in my 6th
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight" />
 
 </div>
+
+Currently working on:
+1. https://quick-text-tools-web-leander.vercel.app/
+2. Audiobook piline, download, process, ai voice
+3. Fileserver
+4. Contact Form Email
