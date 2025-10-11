@@ -13,6 +13,7 @@ I'm an AI student at the Technical University of Deggendorf, currently in my 6th
 
   <!-- Normal Layout -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight" />
+  <script defer src="https://umami.leanderziehm.com/script.js" data-website-id="11e5276c-75ba-443a-84cd-03326d24d45f"></script>
   <!--
   Currently working on:
 1. https://quick-text-tools-web-leander.vercel.app/
