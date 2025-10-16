@@ -8,11 +8,14 @@ I'm an AI student at the Technical University of Deggendorf, currently in my 6th
 
 <div style="display: flex; flex-direction: column; align-items: center;">
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight" />
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight)
   <br>
-  <img src="https://image.leanderziehm.com/">
+  ![](https://image.leanderziehm.com/?username=leanderziehm)
+    <br>
+  ![](https://komarev.com/ghpvc/?username=leanderziehm)
   <!--
+
+    <img src="https://image.leanderziehm.com/">
   Currently working on:
 1. https://quick-text-tools-web-leander.vercel.app/
 2. Audiobook piline, download, process, ai voice
