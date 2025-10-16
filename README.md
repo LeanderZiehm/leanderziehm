@@ -10,7 +10,7 @@ I'm an AI student at the Technical University of Deggendorf, currently in my 6th
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight)
   <br>
-  ![](https://image.leanderziehm.com/?username=leanderziehm)
+  ![](https://image.leanderziehm.com/?username=leanderziehm&x=3)
     <br>
   ![](https://komarev.com/ghpvc/?username=leanderziehm)
 
