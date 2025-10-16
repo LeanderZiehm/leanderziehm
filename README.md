@@ -3,17 +3,15 @@
 ## 🎓 About Me
 I'm an AI student at the Technical University of Deggendorf, currently in my 6th semester and set to graduate in **2026**. I'm passionate about **backend development** for websites.
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/leanderziehm333/)
+- [LinkedIn](https://www.linkedin.com/in/leanderziehm/)
 - leanderziehm@gmail.com
 
-<div align="center">
+<div style="display: flex; flex-direction: column; align-items: center;">
 
-  <!-- Donut Vertical Layout -->
-  <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&layout=donut-vertical&theme=tokyonight" />
 
-  <!-- Normal Layout -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight" />
-  <script defer src="https://umami.leanderziehm.com/script.js" data-website-id="11e5276c-75ba-443a-84cd-03326d24d45f"></script>
+  <br>
+  <img src="https://image.leanderziehm.com/">
   <!--
   Currently working on:
 1. https://quick-text-tools-web-leander.vercel.app/
