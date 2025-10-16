@@ -13,6 +13,8 @@ I'm an AI student at the Technical University of Deggendorf, currently in my 6th
   ![](https://image.leanderziehm.com/?username=leanderziehm)
     <br>
   ![](https://komarev.com/ghpvc/?username=leanderziehm)
+
+  ![](https://hit.yhype.me/github/profile?account_id=117998178)
   <!--
 
     <img src="https://image.leanderziehm.com/">
