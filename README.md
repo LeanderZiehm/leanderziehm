@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Leander Ziem!
 
 ## 🎓 About Me
-I'm an AI student at the Technical University of Deggendorf, currently in my 6th semester and set to graduate in **2026**. I'm passionate about **backend development** for websites.
+I'm AI Intern for BMW, I studing Bachleors in Artificial Intelligence and I am in my 6th semester Bachelor set to graduate in **2027**. I'm passionate about **backend development** for websites and apps.
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/leanderziehm/)
 - leanderziehm@gmail.com
@@ -14,7 +14,6 @@ I'm an AI student at the Technical University of Deggendorf, currently in my 6th
     <br>
   ![](https://komarev.com/ghpvc/?username=leanderziehm)
 
-  ![](https://hit.yhype.me/github/profile?account_id=117998178)
   <!--
 
     <img src="https://image.leanderziehm.com/">
