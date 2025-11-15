@@ -7,14 +7,16 @@ I'm AI Intern for BMW, I studing Bachleors in Artificial Intelligence and I am i
 - leanderziehm@gmail.com
 
 <div style="display: flex; flex-direction: column; align-items: center;">
+  <img src="https://github-stats.leanderziehm.com/api/top-langs/?username=leanderziehm&theme=tokyonight">
+</div>
 
+  <!--
+  
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight)
   <br>
   ![](https://image.leanderziehm.com/?username=leanderziehm&x=3)
     <br>
   ![](https://komarev.com/ghpvc/?username=leanderziehm)
-
-  <!--
 
     <img src="https://image.leanderziehm.com/">
   Currently working on:
@@ -23,6 +25,6 @@ I'm AI Intern for BMW, I studing Bachleors in Artificial Intelligence and I am i
 3. Fileserver
 4. Contact Form Email
 -->
-</div>
+
 
 
