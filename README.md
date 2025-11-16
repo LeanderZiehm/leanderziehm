@@ -9,6 +9,9 @@ I'm AI Intern for BMW, I studing Bachleors in Artificial Intelligence and I am i
 <div style="display: flex; flex-direction: column; align-items: center;">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight&disable_animations=true&langs_count=10">
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=leanderziehm">
+
 </div>
 
   <!--
