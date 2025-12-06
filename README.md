@@ -9,7 +9,7 @@ I focus on **full-stack web development**, leaning **backend**. My current focus
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/leanderziehm/)
-- leanderziehm@gmail.com
+- hello@leanderziehm.com
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   
