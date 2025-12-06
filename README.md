@@ -13,7 +13,7 @@ I focus on **full-stack web development**, leaning **backend**. My current focus
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight&disable_animations=true&langs_count=10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight&disable_animations=true&langs_count=5">
   <br>
   <img src="https://komarev.com/ghpvc/?username=leanderziehm">
 
