@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Leander Ziem!
+# Hi there 👋, I'm Leander Ziehm!
 
 ## 🎓 About Me
 I'm AI Intern for BMW, I studing Bachleors in Artificial Intelligence and I am in my 6th semester Bachelor set to graduate in **2027**. 
