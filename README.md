@@ -16,6 +16,7 @@ I focus on **full-stack web development**, leaning **backend**. My current focus
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight&disable_animations=true&langs_count=5">
   <br>
   <img src="https://komarev.com/ghpvc/?username=leanderziehm">
+  <img src="https://pix.leanderziehm.com">
 
 </div>
 
