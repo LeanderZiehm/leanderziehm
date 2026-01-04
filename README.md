@@ -13,17 +13,14 @@ I focus on **full-stack web development**, leaning **backend**. My current focus
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight&disable_animations=true&langs_count=5">
+  <img src="https://github-stats.leanderziehm.com/api/top-langs/?username=leanderziehm&theme=tokyonight&disable_animations=true&langs_count=5">
   <br>
   <img src="https://komarev.com/ghpvc/?username=leanderziehm">
-  <img src="https://pix.leanderziehm.com/profile">
+  <img src="https://pix.leanderziehm.com/gituhub-profile">
 
 </div>
 
   <!--
-  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=leanderziehm&theme=tokyonight)
-  <br>
   ![](https://image.leanderziehm.com/?username=leanderziehm&x=3)
     <br>
   ![](https://komarev.com/ghpvc/?username=leanderziehm)
