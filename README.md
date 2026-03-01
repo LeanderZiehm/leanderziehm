@@ -29,7 +29,7 @@ I focus on **full-stack web development**, leaning **backend**. My current focus
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   
-  <img src="https://github-stats.leanderziehm.com/api/top-langs/?username=leanderziehm&theme=tokyonight&disable_animations=true&langs_count=5">
+  <img src="https://github-stats.leanderziehm.com/api/top-langs/?username=leanderziehm&theme=tokyonight&disable_animations=true&langs_count=10">
   <br>
   <img src="https://komarev.com/ghpvc/?username=leanderziehm">
   <img src="https://pix.leanderziehm.com/gituhub-profile">
