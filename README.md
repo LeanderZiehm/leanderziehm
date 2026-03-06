@@ -23,9 +23,12 @@ I focus on **full-stack web development**, leaning **backend**. My current focus
   }
 ```
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/leanderziehm/)
-- hello@leanderziehm.com
+## Check out
+
+My Blog: https://blog.leanderziehm.com/
+
+
+## Github Stats
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   
