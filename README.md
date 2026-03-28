@@ -12,7 +12,7 @@ I focus on **full-stack web development**, leaning **backend**. My current focus
       this.name = "Leander Ziehm";
 
       this.languages = new String[]{
-          "Python", "Java", "TypeScript", "C#"
+          "TypeScript", "Java", "Python", "C#"
       };
       this.specialties = new String[]{
           "Full-Stack Development", "Backend APIs", "Databases"
