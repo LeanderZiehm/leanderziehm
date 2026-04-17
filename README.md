@@ -12,13 +12,13 @@ I focus on **full-stack web development**, leaning **backend**. My current focus
       this.name = "Leander Ziehm";
 
       this.languages = new String[]{
-          "TypeScript", "Java", "Python", "C#"
+          "Java", "TypeScript", "Python", "C#"
       };
-      this.specialties = new String[]{
-          "Full-Stack Development", "Backend APIs", "Databases"
+      this.frameworks = new String[]{
+          "Spring Boot", "Angular", "React"
       };
-      this.tools = new String[]{
-          "Spring Boot",  "Postgres", "React/Angular", "Docker/Podman",
+      this.infra = new String[]{
+          "Postgres", "Docker/Podman", "Terraform",
       };
   }
 ```
